@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bruno-mlemos
-- 👀 I’m interested in programming and the world about it
+- 👀 I’m interested in new tech and the world about it
 - 🌱 I'm currently learning full stack development
 - 💞️ I’m looking to collaborate on back and front-end projects
 - 📫 How to reach me: www.linkedin.com/in/bruno-mlemos
